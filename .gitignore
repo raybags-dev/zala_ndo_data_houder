@@ -1,0 +1,19 @@
+# Python-specific
+*.pyc
+__pycache__/
+
+# Scrapy specific
+.scrapy/
+*.env
+.env
+
+# Ignore venv environment
+venv/
+
+# SQLite temporary files
+products.db
+*.db-journal
+*.sqbpro
+
+# generated files
+*.log
